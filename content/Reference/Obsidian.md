@@ -1,0 +1,2 @@
+- [Obsidian Help](https://help.obsidian.md/Home)
+- [Quartz 4 (jzhao.xyz)](https://quartz.jzhao.xyz/)
